@@ -13,8 +13,7 @@ namespace Gittest
 
             var ui = new Ui();
             ui.Hello();
-            ui.Hello();
-            Console.ReadLine();
+         Console.ReadKey();
         }
     }
 }
