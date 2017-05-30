@@ -11,6 +11,8 @@ namespace Gittest
         public void Hello()
         {
             Console.WriteLine("helloo Git");
+            Console.WriteLine("Hello again");
+            Console.WriteLine("And again");
         }
     }
 }
